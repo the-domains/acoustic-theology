@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[where being given meets understanding]]></title>
-        <description><![CDATA[where being given meets understanding]]></description>
+        <title><![CDATA[Acoustic Theology: where being given seeks understanding]]></title>
+        <description><![CDATA[Acoustic Theology: where being given seeks understanding]]></description>
         <link>https://thegrid.ai/acoustic-theology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 02:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 02:27:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/acoustic-theology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Listening Matters]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1a1c5cd-0c40-472e-a5f2-b4dd9f3ff7a2.jpg">]]></description>
+            <link>https://thegrid.ai/acoustic-theology/listening-matters/index.html</link>
+            <guid isPermaLink="false">cf524da0-71de-4efd-abf1-f44e8eafc82b</guid>
+            <pubDate>Thu, 28 Apr 2016 02:27:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/909e7a1c-4d09-41fb-81c8-ad3529e5eebd.jpg">]]></description>
