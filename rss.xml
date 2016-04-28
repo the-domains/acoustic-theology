@@ -4,21 +4,21 @@
         <description><![CDATA[Acoustic Theology: where being given seeks understanding]]></description>
         <link>https://thegrid.ai/acoustic-theology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 04:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 04:24:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/acoustic-theology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/909e7a1c-4d09-41fb-81c8-ad3529e5eebd.jpg">]]></description>
+            <link>https://thegrid.ai/acoustic-theology/this-is-an-experiment-its-a-thought-experiment-of-sorts-w/index.html</link>
+            <guid isPermaLink="false">07c7f535-fd62-4e19-8b9c-eb18cc4b7d8b</guid>
+            <pubDate>Thu, 28 Apr 2016 04:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Listening Matters]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1a1c5cd-0c40-472e-a5f2-b4dd9f3ff7a2.jpg">]]></description>
             <link>https://thegrid.ai/acoustic-theology/listening-matters/index.html</link>
             <guid isPermaLink="false">cf524da0-71de-4efd-abf1-f44e8eafc82b</guid>
             <pubDate>Thu, 28 Apr 2016 04:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/909e7a1c-4d09-41fb-81c8-ad3529e5eebd.jpg">]]></description>
-            <link>https://thegrid.ai/acoustic-theology/this-is-an-experiment-its-a-thought-experiment-of-sorts-w/index.html</link>
-            <guid isPermaLink="false">07c7f535-fd62-4e19-8b9c-eb18cc4b7d8b</guid>
-            <pubDate>Thu, 28 Apr 2016 02:07:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
