@@ -1,7 +1,7 @@
 name: Acoustic Theology
 favicon: null
-layout_spectrum: 0.97327348170802
-typography_spectrum: 0.19446252565830946
+layout_spectrum: 0.27278
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
